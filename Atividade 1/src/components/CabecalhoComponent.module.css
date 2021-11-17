@@ -1,0 +1,17 @@
+.cabecalhoComponent {
+  margin-top: 0%;
+  color: white;
+  background-color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cabecalhoComponent a {
+  color: white; 
+}
+
+.cabecalhoComponent img {
+  width: 50px;
+  border-radius: 50%;
+}

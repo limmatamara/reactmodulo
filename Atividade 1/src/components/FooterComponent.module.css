@@ -1,0 +1,17 @@
+.footerComponent {
+  background-color: red;
+  color: white;
+  text-align: left;
+  
+}
+
+.footerComponent a {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3px;
+}
+
+.footerComponent p {
+  margin-left: 2rem;
+}
